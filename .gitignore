@@ -1,0 +1,12 @@
+# Compiled Java class files
+*.class
+
+# Package files
+*.jar
+
+# Claude Code project settings
+.claude/
+
+# Generated markdown from PDF conversion
+*.md
+!README.md
