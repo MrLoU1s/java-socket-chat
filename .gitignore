@@ -10,3 +10,6 @@
 # Generated markdown from PDF conversion
 *.md
 !README.md
+
+# Microsoft Office lock files
+~$*
