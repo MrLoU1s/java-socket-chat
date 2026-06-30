@@ -7,10 +7,8 @@
 # Claude Code project settings
 .claude/
 
-# Generated markdown from PDF conversion
-*.md
-!README.md
-!ROADMAP.md
+# Generated markdown from PDF conversion (hand-written docs are kept)
+Assignment 1 Explanation*.md
 
 # Microsoft Office lock files
 ~$*
